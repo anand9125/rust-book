@@ -72,4 +72,5 @@ fn main(){
         number -=1;
     }
     println!("Liftofff");
+  }
 }

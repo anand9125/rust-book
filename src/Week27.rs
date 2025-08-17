@@ -59,7 +59,6 @@ fn steer(dir: Direction) {
 enums with values
 enum Shape {
     Squre(f32),
-  
     Rectange(f32,f32)
 }
 
@@ -150,3 +149,4 @@ fn find_first_a(s: String) -> Option<u32> {
     }
     Option::None
 }
+
