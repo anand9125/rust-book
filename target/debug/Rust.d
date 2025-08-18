@@ -1,1 +1,1 @@
-/mnt/d/Web3/Project/Rust/target/debug/Rust: /mnt/d/Web3/Project/Rust/src/main.rs
+D:\Web3\Project\Rust\target\debug\Rust.exe: D:\Web3\Project\Rust\src\main.rs
