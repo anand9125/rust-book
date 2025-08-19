@@ -1,0 +1,11 @@
+D:\Web3\Project\Rust\target\debug\deps\borsh-23f77b9a9949a28c.d: C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\lib.rs C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\de\mod.rs C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\de\hint.rs C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\ser\mod.rs C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\ser\helpers.rs C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\error.rs C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\../docs/rustdoc_include/borsh_crate_top_level.md
+
+D:\Web3\Project\Rust\target\debug\deps\libborsh-23f77b9a9949a28c.rmeta: C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\lib.rs C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\de\mod.rs C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\de\hint.rs C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\ser\mod.rs C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\ser\helpers.rs C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\error.rs C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\../docs/rustdoc_include/borsh_crate_top_level.md
+
+C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\lib.rs:
+C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\de\mod.rs:
+C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\de\hint.rs:
+C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\ser\mod.rs:
+C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\ser\helpers.rs:
+C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\error.rs:
+C:\Users\Acer\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-1.5.7\src\../docs/rustdoc_include/borsh_crate_top_level.md:
