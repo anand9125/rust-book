@@ -11,3 +11,10 @@ dotenv = "0.15.0"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0"
 
+[[bin]]
+name = "exercise1"
+path = "src/rustling/exercise1/main.rs"
+
+[[bin]]
+name = "project2"
+path = "src/project2/main.rs"
